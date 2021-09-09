@@ -1,2 +1,2 @@
 # API-Filmes
- API Rest full para coonsulta, edição, deleção e inserção de fillmes e suas características.
+ API REST para coonsulta, edição, deleção e inserção de fillmes e suas características.
